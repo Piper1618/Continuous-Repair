@@ -1,0 +1,6 @@
+{
+	"function": "set_damage",
+	"conditions": [],
+	"damage": 1.0,
+	"add": false
+}
